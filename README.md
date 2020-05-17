@@ -5,7 +5,7 @@
 This is a plateform for shoping on low price.
 
 - We can browse all categories.
-- We can browse products based on category categories.
+- We can browse products based on categories.
 - We can add product to cart.
 - We can order product.
 
